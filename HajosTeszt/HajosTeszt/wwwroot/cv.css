@@ -1,0 +1,13 @@
+﻿html{
+    background-color: lightblue;
+
+}
+h1{
+    font-style: italic;
+}
+div.egyes{
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid darkblue;
+    border-radius: 25px;
+}
