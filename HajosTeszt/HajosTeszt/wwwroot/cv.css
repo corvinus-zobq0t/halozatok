@@ -5,9 +5,9 @@
 h1{
     font-style: italic;
 }
-div.egyes{
+#egyes{
     margin: 10px;
     padding: 20px;
-    border: 1px solid darkblue;
+    border: 1px solid blue;
     border-radius: 25px;
 }
